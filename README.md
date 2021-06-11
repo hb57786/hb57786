@@ -14,6 +14,6 @@
 
 ### Connect with me:
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0072b1?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/tadeu-cadilhe/ "Connect on LinkedIn")
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/tadeu-cadilhe/ "Connect on LinkedIn")
 
 [course]: https://www.udemy.com/course/flutter-bootcamp-with-dart/
