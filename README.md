@@ -1,7 +1,7 @@
 # Hi there, I'm Tadeu Cadilhe 👋
 
 
- I'm a Computer Engineer, Team Leader, Flutter Enthusiastic, Husband, Father and Pokémon Trainer in free time 😛
+ I'm a Computer Engineer, Team Leader, Developer, Husband, Father and Pokémon Trainer in free time 😛
 
 - ⚙️ I’m currently working on Braspag Technology Payments!
 - 📜 I’m currently learning [Flutter][course] and improving my English
