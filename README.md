@@ -1,4 +1,4 @@
-# Hi there, I'm Tadeu Cadilhe 👋
+# Hi there, I'm Tadeu Cadilhe <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 
 
  I'm a Computer Engineer, Team Leader, Developer, Husband, Father and Pokémon Trainer in free time 😛
@@ -12,12 +12,10 @@
 
 [![My Github Stats](https://github-readme-stats.vercel.app/api?username=hb57786&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/hb57786)
 
-## This week I spent my time on
-
-![hb57786 stats](https://github-readme-stats-taupe-two.vercel.app/api/hb57786?username=hb57786&hide_title=true&hide_border=true&langs_count=5)
-
 ### Connect with me:
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/tadeu-cadilhe/ "Connect on LinkedIn")
+[![Gmail Badge](https://img.shields.io/badge/-tadeufcad@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:tadeufcad@gmail.com "Connect via Email")
+[![Linkedin Badge](https://img.shields.io/badge/-TadeuCadilhe%20Dey-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/tadeu-cadilhe/ "Connect on LinkedIn")
+[![Telegram Badge](https://img.shields.io/badge/-@TadeuCadilhe-0088CC?style=flat&logo=Telegram&logoColor=white)](https://t.me/TadeuCadilhe "Contact on Telegram")
 
 [course]: https://www.udemy.com/course/flutter-bootcamp-with-dart/
