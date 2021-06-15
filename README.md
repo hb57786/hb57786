@@ -14,7 +14,7 @@
 
 ## This week I spent my time on
 
-![hb57786 stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=hb57786&hide_title=true&hide_border=true&langs_count=5)
+![hb57786 stats](https://github-readme-stats-taupe-two.vercel.app/api/hb57786?username=hb57786&hide_title=true&hide_border=true&langs_count=5)
 
 ### Connect with me:
 
