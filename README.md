@@ -8,9 +8,8 @@
 - 👯 I'm looking to become a better person and learn new things ever
 - 🏆 2021 Goals: Learn deeply about mobile development
 
-## Some of my Github Public Stats
-
-[![My Github Stats](https://github-readme-stats.vercel.app/api?username=hb57786&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/hb57786)
+## Most Used Languages
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hb57786&layout=compact&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/hb57786/github-readme-stats)
 
 ### Connect with me:
 
