@@ -17,4 +17,4 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Tadeu%20Cadilhe-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/tadeu-cadilhe/ "Connect on LinkedIn")
 [![Telegram Badge](https://img.shields.io/badge/-@TadeuCadilhe-0088CC?style=flat&logo=Telegram&logoColor=white)](https://t.me/TadeuCadilhe "Contact on Telegram")
 
-[course]: https://www.udemy.com/course/flutter-bootcamp-with-dart/
+[course]: https://flutter.dev/
